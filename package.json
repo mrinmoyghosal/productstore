@@ -20,6 +20,6 @@
     "babel-preset-react": "^6.3.13",
     "redux": "^4.0.3",
     "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   }
 }
